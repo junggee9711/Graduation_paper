@@ -1,1 +1,1 @@
-/**/*.ipynb
+/**/events.out.tfevents.*
